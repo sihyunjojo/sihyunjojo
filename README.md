@@ -7,13 +7,13 @@
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
 <p align="center">
-![Solved.ac프로필]
+<p>![Solved.ac프로필]</p>
 <a href="https://solved.ac/plate0113"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="vertical-align:top" height=140/></a>
 </br>
 </p>
 
 <p align="center">
-![Anurag's GitHub stats]
+<p>![Anurag's GitHub stats]</p>
 <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=highcontrast" style="vertical-align:top" height=140/></a>
 </br>
 </p>
