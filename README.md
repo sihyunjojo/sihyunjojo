@@ -2,8 +2,8 @@
 	<b>Junior Backend Developer</br>
 </p>
     
-- 🌱 I’m currently learning ...
-<br>
+### 🌱 I’m currently learning ...
+
 <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 
 
 ### 📌 Latest Blog Post
