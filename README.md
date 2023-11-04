@@ -12,16 +12,10 @@
 <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
-<p align="center">
-<a href="https://solved.ac/plate0113">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="vertical-align:top" height=140/></a>
-</br>
-</p>
-<br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=highcontrast" style="vertical-align:top" height=140/></a>
-</br>
+<p align="left">
+    <a href="https://solved.ac/plate0113">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=140/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=highcontrast" style="margin-left: 10px; vertical-align:top" height=140/></a>
 </p>
 <br>
 
