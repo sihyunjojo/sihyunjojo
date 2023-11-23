@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...
-
+매일 알고리즘 풀기
 
 ### 📌 Latest Blog Post
 [2023/10/31 - [아키텍처] MVC패턴을 어떨 때 적용하는게 좋을까??](https://velog.io/@plate0113/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-MVC%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%96%B4%EB%96%A8-%EB%95%8C-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C) <br/>
