@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 매일 알고리즘 풀기
 
 ### 📌 Latest Blog Post
-[2024/01/30 - [IDE] 인텔리제이에서 한 프로젝트에서 main 2개 이상 만들기.]
-(https://velog.io/@plate0113/IDE-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4%EC%97%90%EC%84%9C-%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-main-2%EA%B0%9C-%EC%9D%B4%EC%83%81-%EB%A7%8C%EB%93%A4%EA%B8%B0)<br/>
-[2024/01/13 - [Git] branch의 이름 옆에 있는 origin은 뭘까?]
-(https://velog.io/@plate0113/Git-branch%EC%9D%98-%EC%9D%B4%EB%A6%84-%EC%98%86%EC%97%90-%EC%9E%88%EB%8A%94-origin%EC%9D%80-%EB%AD%98%EA%B9%8C)<br/>
+[2024/01/30 - [IDE] 인텔리제이에서 한 프로젝트에서 main 2개 이상 만들기.](https://velog.io/@plate0113/IDE-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4%EC%97%90%EC%84%9C-%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-main-2%EA%B0%9C-%EC%9D%B4%EC%83%81-%EB%A7%8C%EB%93%A4%EA%B8%B0)<br/>
+[2024/01/13 - [Git] branch의 이름 옆에 있는 origin은 뭘까?](https://velog.io/@plate0113/Git-branch%EC%9D%98-%EC%9D%B4%EB%A6%84-%EC%98%86%EC%97%90-%EC%9E%88%EB%8A%94-origin%EC%9D%80-%EB%AD%98%EA%B9%8C)<br/>
 [2023/10/31 - [아키텍처] MVC패턴을 어떨 때 적용하는게 좋을까??](https://velog.io/@plate0113/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-MVC%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%96%B4%EB%96%A8-%EB%95%8C-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C) <br/>
 [2023/10/26 - [AWS] RDS 접속하기](https://velog.io/@plate0113/AWS-RDS-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0) <br/>
