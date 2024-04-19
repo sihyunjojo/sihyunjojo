@@ -51,7 +51,6 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 
-512317/github-142
 <p align="left">
     <a href="https://solved.ac/plate0113">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=140/></a>
