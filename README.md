@@ -1,5 +1,5 @@
 <p align="center">
-	<b>Junior Backend Developer</br>
+	<b>Backend Developer</br>
 </p>
 
 ## Hi there 👋
