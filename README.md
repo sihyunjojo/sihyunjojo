@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 매일 알고리즘 풀기
 
 ### 📌 Latest Blog Post
+[2024/04/19 - [GitHib] GitHub Actions](https://velog.io/@plate0113/GitHib-GitHub-Actions)<br/>
 [2024/04/18 - [GitHub] 브랜치 전략과 Git 플로우, GitHub 플로우(Flow)](https://velog.io/@plate0113/GitHub-GitHub-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%99%80-%EC%A0%84%EB%9E%B5)<br/>
 [2024/01/30 - [IDE] 인텔리제이에서 한 프로젝트에서 main 2개 이상 만들기.](https://velog.io/@plate0113/IDE-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4%EC%97%90%EC%84%9C-%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-main-2%EA%B0%9C-%EC%9D%B4%EC%83%81-%EB%A7%8C%EB%93%A4%EA%B8%B0)<br/>
 [2024/01/13 - [Git] branch의 이름 옆에 있는 origin은 뭘까?](https://velog.io/@plate0113/Git-branch%EC%9D%98-%EC%9D%B4%EB%A6%84-%EC%98%86%EC%97%90-%EC%9E%88%EB%8A%94-origin%EC%9D%80-%EB%AD%98%EA%B9%8C)<br/>
