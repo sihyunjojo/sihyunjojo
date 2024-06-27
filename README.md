@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 매일 알고리즘 풀기
 
 ### 📌 Latest Blog Post
-[2024/06/28 - [Spring] Spring Scheduler] (https://velog.io/@plate0113/Spring-Spring-Scheduler)<br/>
+[2024/06/28 - [Spring] Spring Scheduler](https://velog.io/@plate0113/Spring-Spring-Scheduler)<br/>
 [2024/05/03 - [Spring] REST API방식으로 파일 받아오다 생긴 사건](https://velog.io/@plate0113/Spring-REST-API%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%ED%8C%8C%EC%9D%BC-%EB%B0%9B%EC%95%84%EC%98%A4%EB%8B%A4-%EC%83%9D%EA%B8%B4-%EC%82%AC%EA%B1%B4)<br/>
 [2024/04/30 - [JSP] JSP에서 ${ }이 안된다!!](https://velog.io/@plate0113/JSP-JSP%EC%97%90%EC%84%9C-%EC%9D%B4-%EC%95%88%EB%90%9C%EB%8B%A4)<br/>
 [2024/04/19 - [GitHib] GitHub Actions](https://velog.io/@plate0113/GitHib-GitHub-Actions)<br/>
