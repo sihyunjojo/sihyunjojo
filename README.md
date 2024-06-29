@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...
-매일 알고리즘 풀기
+매일 알고리즘 풀기 :baby_chick:
 
 ### 📌 Latest Blog Post
 [2024/06/28 - [Spring] Spring Scheduler](https://velog.io/@plate0113/Spring-Spring-Scheduler)<br/>
