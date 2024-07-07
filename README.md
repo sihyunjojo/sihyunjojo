@@ -1,5 +1,5 @@
 <p align="center">
-	<b>❤ Developing is Fun!</br>
+	<b>❤ The idea of development is Fun! ❤</br>
 </p>
 
 ## Hi there 👋
@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...
-매일 알고리즘 풀기 :baby_chick:
+화상 서비스 개발 중 :baby_chick:
 
 ### 📌 Latest Blog Post
+[2024/06/30 - [JAVA] 기본 데이터 형식보다 객체를 만들어 사용하는 이유](https://velog.io/@plate0113/%EC%9E%91%EC%84%B1%EC%A4%91-%EA%B8%B0%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%98%95%EC%8B%9D%EB%B3%B4%EB%8B%A4-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)<br/>
+[2024/06/30 - [Spring] Spring Batch를 왜 써야하는가??](https://velog.io/@plate0113/Spring-Spring-Batch%EB%A5%BC-%EC%99%9C-%EC%8D%A8%EC%95%BC%ED%95%98%EB%8A%94%EA%B0%80)<br/>
+[2024/06/29 - [Spring] Spring Batch란?](https://velog.io/@plate0113/Spring-Spring-Batch%EB%9E%80)<br/>
 [2024/06/28 - [Spring] Spring Scheduler](https://velog.io/@plate0113/Spring-Spring-Scheduler)<br/>
 [2024/05/03 - [Spring] REST API방식으로 파일 받아오다 생긴 사건](https://velog.io/@plate0113/Spring-REST-API%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%ED%8C%8C%EC%9D%BC-%EB%B0%9B%EC%95%84%EC%98%A4%EB%8B%A4-%EC%83%9D%EA%B8%B4-%EC%82%AC%EA%B1%B4)<br/>
-[2024/04/30 - [JSP] JSP에서 ${ }이 안된다!!](https://velog.io/@plate0113/JSP-JSP%EC%97%90%EC%84%9C-%EC%9D%B4-%EC%95%88%EB%90%9C%EB%8B%A4)<br/>
-[2024/04/19 - [GitHib] GitHub Actions](https://velog.io/@plate0113/GitHib-GitHub-Actions)<br/>
-[2024/04/18 - [GitHub] 브랜치 전략과 Git 플로우, GitHub 플로우(Flow)](https://velog.io/@plate0113/GitHub-GitHub-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%99%80-%EC%A0%84%EB%9E%B5)<br/>
