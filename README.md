@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 화상 서비스 개발 중 :baby_chick:
 
 ### 📌 Latest Blog Post
+[2024/07/23 - [JPA] 연관관계와 getReferenceById()](https://velog.io/@plate0113/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-getReferenceById)</br>
 [2024/07/22 - [오픈소스] 어렵기만한 오픈소스 기여! 누구나 쉽게 도전 하는 방법!!](https://velog.io/@plate0113/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%A0%B5%EA%B8%B0%EB%A7%8C%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%A0%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
 [2024/07/08 - [Spring] Spring batch의 청크 기반 처리는 어떠한 장점이 있을까?](https://velog.io/@plate0113/Spring-Spring-batch%EC%9D%98-%EC%B2%AD%ED%81%AC-%EC%B2%98%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%A0%ED%95%9C-%EC%9E%A5%EC%A0%90%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C)<br/>
 [2024/06/30 - [JAVA] 기본 데이터 형식보다 객체를 만들어 사용하는 이유](https://velog.io/@plate0113/%EC%9E%91%EC%84%B1%EC%A4%91-%EA%B8%B0%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%98%95%EC%8B%9D%EB%B3%B4%EB%8B%A4-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)<br/>
 [2024/06/30 - [Spring] Spring Batch를 왜 써야하는가??](https://velog.io/@plate0113/Spring-Spring-Batch%EB%A5%BC-%EC%99%9C-%EC%8D%A8%EC%95%BC%ED%95%98%EB%8A%94%EA%B0%80)<br/>
-[2024/06/28 - [Spring] Spring Scheduler](https://velog.io/@plate0113/Spring-Spring-Scheduler)<br/>
