@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...
-화상 서비스 개발 중 :baby_chick:
+빅데이터 서비스 개발 중 :baby_chick:
 
 ### 📌 Latest Blog Post
 [2024/07/23 - [JPA] 연관관계와 getReferenceById()](https://velog.io/@plate0113/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-getReferenceById)</br>
