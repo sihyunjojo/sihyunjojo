@@ -4,34 +4,36 @@
 
 ## Hi there 👋
 유지보수가 편한 구조, 사용자가 편한 코드를 추구하고 있는 개발자 입니다.  
-개발 및 유지보수등 소프트웨어 관련 고민을 좋아하고 특정 상황에 맞는 정답을 사람들과 함께 찾아가는 과정을 좋아합니다.  
+소프트웨어 관련 이야기와 고민을 좋아하고 사람들과 함께 상황에 맞는 정답을 찾아가는 과정을 좋아합니다.  
 
 ## 🛠️&nbsp;&nbsp;&nbsp;Tech Stacks&nbsp;&nbsp;&nbsp;🛠️
 
-<br>
-
 <table>
   <tr>
-    <td rowspan="2" align="center"><b>Language</td>
-    <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</td>
-    <td rowspan="6"></td>
-    <td rowspan="2" align="center"><b>Database</b></td>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
+    <td rowspan="1" align="center"><b>Language</b></td>
+    <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</b></td>
+    <td rowspan="7"></td>
+    <td rowspan="4" align="center"><b>Database</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
+    <td rowspan="4" align="center"><b>Infra</b></td>
+    <td><img src="https://www.svgrepo.com/show/452192/docker.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Docker</b></td>
   </tr>
   <tr>
-    <td><img src="https://staging.svgrepo.com/show/452091/python.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Python</td>
-    <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</td>
+    <td rowspan="1" align="center"><b>Frameworks</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</b></td>
+    <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</b></td>
+    <td><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Nginx</b></td>
   </tr>
   <tr>
-    <td rowspan="2" align="center"><b>Frameworks</td>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209075018-0a1f7f14-a910-4d16-a4e4-51929b99e1ae.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring</td>
-	          <td rowspan="2" align="center"><b>ORM</td>
-      <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA/Data JPA</td>
-
+    <td rowspan="2" align="center"><b>ORM</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA</b></td>
+    <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MongoDB</b></td>
+    <td><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>SonarQube</b></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</td>
-	        <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</td>
+    <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</b></td>
+    <td><img src="https://www.svgrepo.com/show/439288/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</b></td>
+    <td><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Grafana</b></td>
   </tr>
 </table>
 <br>
@@ -44,11 +46,12 @@
     <td colspan="2" align="center"><b>CI/CD</td>
   </tr> -->
 
-	      
+
 ## 🌱 I’m currently learning ...
-<a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ElasticSearch-0200DF?style=flat-square&logo=elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kafka-020202?style=flat-square&logo=apachekafka&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 
 ## 💻 Stats
