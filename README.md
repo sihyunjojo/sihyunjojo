@@ -58,9 +58,14 @@
 <p align="left">
     <a href="https://solved.ac/plate0113">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=140/></a>
+    <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=warm" style="margin-left: 1px; vertical-align:top" height=140></a>
+    </br>
     <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=highcontrast" style="margin-left: 10px; vertical-align:top" height=140/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact" style="margin-left: 10px; vertical-align:top" height=140 /></a>
 </p>
+
 <br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact)](https://github.com/sihyunjojo/github-readme-stats)-->
 
 <!--
 **sihyunjojo/sihyunjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
