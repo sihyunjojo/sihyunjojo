@@ -86,7 +86,7 @@ Spring Boot Docker Guide(command not working)
 -->
 
 ### 🔭 I’m currently working on ...
-빅데이터 서비스 개발 중 :baby_chick:
+빅데이터 서비스 개발 중 :baby_chick:  
 오픈 소스 기여 노력 중
 
 ### 🤝 Contribution
