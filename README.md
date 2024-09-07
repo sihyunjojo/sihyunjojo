@@ -6,6 +6,8 @@
 유지보수가 편한 구조, 사용자가 편한 코드를 추구하고 있는 개발자 입니다.  
 소프트웨어 관련 이야기와 고민을 좋아하고 사람들과 함께 상황에 맞는 정답을 찾아가는 과정을 좋아합니다.  
 
+## Portfolio
+
 ## 🛠️&nbsp;&nbsp;&nbsp;Tech Stacks&nbsp;&nbsp;&nbsp;🛠️
 
 <table>
@@ -78,10 +80,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤝 Contribution
+Spring Boot Docker Guide(command not working)
+- My Portpolio
 -->
 
 ### 🔭 I’m currently working on ...
 빅데이터 서비스 개발 중 :baby_chick:
+
+### 🤝 Contribution
+[angular](https://github.com/angular/angular/pull/56974)
 
 ### 📌 Latest Blog Post
 [2024/08/30 - [Nginx] Nginx를 활용한 트래픽 제한 사용법](https://velog.io/@plate0113/Nginx-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%A0%9C%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B2%95)</br>
