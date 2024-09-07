@@ -87,10 +87,14 @@ Spring Boot Docker Guide(command not working)
 
 ### 🔭 I’m currently working on ...
 빅데이터 서비스 개발 중 :baby_chick:
+오픈 소스 기여 노력 중
 
 ### 🤝 Contribution
-[angular](https://github.com/angular/angular/pull/56974)
-
+[Angular Contributing Guide(improve readability)](https://github.com/angular/angular/pull/56974)
+<!-- 
+Spring Boot Docker Guide(command not working)
+start.spring.io(Bean Validation Description Change)
+-->
 ### 📌 Latest Blog Post
 [2024/08/30 - [Nginx] Nginx를 활용한 트래픽 제한 사용법](https://velog.io/@plate0113/Nginx-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%A0%9C%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B2%95)</br>
 [2024/08/23 - [프로젝트 후기] 공통 프로젝트 후기 1, 2](https://velog.io/@plate0113/%ED%9A%8C%EC%83%81-%EA%B3%B5%ED%86%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)</br>
