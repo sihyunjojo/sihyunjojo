@@ -87,7 +87,7 @@ Spring Boot Docker Guide(command not working)
 
 ### 🔭 I’m currently working on ...
 빅데이터 서비스 개발 중 :baby_chick:  </br>
-오픈 소스 눈 여겨 보는 중 
+오픈 소스 기여 눈 여겨 보는 중 
 
 ### 🤝 Contribution
 [Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)</br>
