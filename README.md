@@ -60,11 +60,24 @@
 ## 💻 &nbsp;Stats
 <p align="left">
     <a href="https://solved.ac/plate0113">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=140/></a>
-    <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=140></a> <!-- cold, dark, warm -->
+    	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=140/>
+    </a>
+    <a>
+        <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=140>
+    </a> <!-- cold, dark, warm -->
     </br>
-    <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=highcontrast" style="margin-left: 10px; vertical-align:top" height=140/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact" style="margin-left: 10px; vertical-align:top" height=140 /></a>
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=tokyonight" style="margin-left: 10px; vertical-align:top" height=140/>
+    </a>
+    <a>
+    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact&theme=tokyonight)" style="margin-left: 10px; vertical-align:top" height=140 />
+    </a>
+    </br>
+    <!--
+    <a>
+    	<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=sihyunjojo&" style="margin-left: 10px; vertical-align:top" height=140 />
+    </a>
+    -->
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact)](https://github.com/sihyunjojo/github-readme-stats)
