@@ -2,13 +2,13 @@
 	<b>Just Do it</b>
 </div>
 
-## Hi there 👋
-유지보수가 편한 구조, 사용자가 편한 코드를 추구하고 있는 개발자 입니다.  
-소프트웨어 관련 이야기와 고민을 좋아하고 사람들과 함께 상황에 맞는 정답을 찾아가는 과정을 좋아합니다.  
+## 👋 &nbsp;Hi there
+유지보수 관리가 편한 코드 작성을 추구하고 있는 개발자입니다.  
+소프트웨어 관련 이야기와 고민을 좋아하고 각 상황에 가장 적합한 솔루션을 찾기 위해 다른 사람들과 협력하는 것을 좋아합니다.  <br/>
 
-## Portfolio
 
-## 🛠️&nbsp;&nbsp;&nbsp;Tech Stacks&nbsp;&nbsp;&nbsp;🛠️
+
+## 🛠️&nbsp; Tech Stacks
 
 <table>
   <tr>
@@ -37,8 +37,7 @@
     <td><img src="https://www.svgrepo.com/show/439288/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</b></td>
     <td><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Grafana</b></td>
   </tr>
-</table>
-<br>
+</table> 
 <!-- <td><img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Google Cloud</td>
 <td><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>AWS</td>
 <td><img src="https://yt3.googleusercontent.com/ytc/AIf8zZTAG01_SUWCNq2jcOvl49us-MaQ0THgkfJwRnIO=s900-c-k-c0x00ffffff-no-rj" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Naver Cloud</td>
@@ -48,26 +47,29 @@
     <td colspan="2" align="center"><b>CI/CD</td>
   </tr> -->
 
-
-## 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/ElasticSearch-0200DF?style=flat-square&logo=elasticsearch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kafka-020202?style=flat-square&logo=apachekafka&logoColor=white"/></a>
+## 🌱 &nbsp;I’m currently learning ...
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache_Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
+</br>
 
-## 💻 Stats
+## 💻 &nbsp;Stats
 <p align="left">
     <a href="https://solved.ac/plate0113">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=140/></a>
-    <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=warm" style="margin-left: 1px; vertical-align:top" height=140></a>
+    <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=140></a> <!-- cold, dark, warm -->
     </br>
     <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=highcontrast" style="margin-left: 10px; vertical-align:top" height=140/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact" style="margin-left: 10px; vertical-align:top" height=140 /></a>
 </p>
 
-<br>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact)](https://github.com/sihyunjojo/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact)](https://github.com/sihyunjojo/github-readme-stats)
+	<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
+-->
 
 <!--
 **sihyunjojo/sihyunjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,17 +87,21 @@ Spring Boot Docker Guide(command not working)
 - My Portpolio
 -->
 
-### 🔭 I’m currently working on ...
+### 🔭 &nbsp;I’m currently working on ...
+다양한 기술 공부 중 </br>
 빅데이터 서비스 개발 중 :baby_chick:  </br>
-오픈 소스 기여 눈 여겨 보는 중 
+오픈 소스 기여 눈 여겨 보는 중 </br>
 
-### 🤝 Contribution
+### 🙂 &nbsp;Portfolio 
+[Notion Portfolio(fix...)](https://99sihyun.notion.site/Junior-Backend-Developer-b41971c29c8446eaab5e99c78b3795bc?pvs=4)
+
+### 🤝 &nbsp;Contribution
 [Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)</br>
 <!-- 
 Spring Boot Docker Guide(command not working)
 start.spring.io(Bean Validation Description Change)
 -->
-### 📌 Latest Blog Post
+### 📌 &nbsp;Latest Blog Post
 [2024/08/30 - [Nginx] Nginx를 활용한 트래픽 제한 사용법](https://velog.io/@plate0113/Nginx-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%A0%9C%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B2%95)</br>
 [2024/08/23 - [프로젝트 후기] 공통 프로젝트 후기 1, 2](https://velog.io/@plate0113/%ED%9A%8C%EC%83%81-%EA%B3%B5%ED%86%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)</br>
 [2024/07/23 - [JPA] 연관관계와 getReferenceById()](https://velog.io/@plate0113/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-getReferenceById)</br>
