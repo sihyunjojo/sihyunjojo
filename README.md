@@ -62,7 +62,7 @@
     <a href="https://solved.ac/plate0113">
     	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=140/>
     </a>
-    <a>
+    <a href="https://solved.ac/plate0113">
         <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=140>
     </a> <!-- cold, dark, warm -->
     </br>
