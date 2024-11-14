@@ -118,5 +118,13 @@ start.spring.io(Bean Validation Description Change)
 [2024/07/23 - [JPA] 연관관계와 getReferenceById()](https://velog.io/@plate0113/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-getReferenceById)</br>
 [2024/07/22 - [오픈소스] 어렵기만한 오픈소스 기여! 누구나 쉽게 도전 하는 방법!!](https://velog.io/@plate0113/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%A0%B5%EA%B8%B0%EB%A7%8C%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%A0%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/sihyunjojo"
+  width="600"
+  height="300"
+/>
+</a>
 <!-- ### 🙂 &nbsp;Portfolio 
 [Notion Portfolio(fix...)](https://99sihyun.notion.site/Junior-Backend-Developer-b41971c29c8446eaab5e99c78b3795bc?pvs=4) -->
+
