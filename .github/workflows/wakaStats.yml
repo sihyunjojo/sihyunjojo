@@ -19,7 +19,7 @@ jobs:
           LOCALE: "ko" #한국
           SHOW_LINES_OF_CODE: "False" 
           SHOW_PROFILE_VIEWS: "True" 
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False" 
