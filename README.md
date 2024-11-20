@@ -52,12 +52,11 @@
 <!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/Apache_Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
-</br>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
-### 🔭 &nbsp;I’m currently working on ...
-오픈 소스 기여 눈 여겨 보는 중 </br>
+<!-- ### 🔭 &nbsp;I’m currently working on ... -->
+
 
 ### 🤝 &nbsp;Contribution
 [Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)</br>
@@ -99,12 +98,6 @@ start.spring.io(Bean Validation Description Change)
 
 #### ⏲️ WorkStats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark)](https://github.com/sihyunjojo/github-readme-stats)
-<p align="left">
-    <a>
-    	<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=sihyunjojo" style="margin-left: 10px; vertical-align:top" height=140 />
-    </a>
-</p>
-
 
 <!--
 **sihyunjojo/sihyunjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -122,6 +115,7 @@ Spring Boot Docker Guide(command not working)
 - My Portpolio
 -->
 
+##### 🐧 gitanimals
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/sihyunjojo"
