@@ -96,7 +96,7 @@ start.spring.io(Bean Validation Description Change)
 </p>
 
 #### ⏲️ WorkStats
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark)
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
