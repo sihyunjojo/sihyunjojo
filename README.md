@@ -2,11 +2,10 @@
 	<b>Just Do it</b>
 </div>
 
+
 ## 👋 &nbsp;Hi there
 항상 의도를 가지고 개발하는 것을 추구하고 있는 개발자입니다.  
 소프트웨어 관련 이야기와 고민을 좋아하고 각 상황에 가장 적합한 솔루션을 찾기 위해 다른 사람들과 협력하는 것을 좋아합니다.  <br/>
-
-
 
 ## 🛠️&nbsp; Tech Stacks
 
@@ -47,17 +46,38 @@
     <td colspan="2" align="center"><b>CI/CD</td>
   </tr> -->
 
-## 🌱 &nbsp;I’m currently learning ...
+### 🌱 &nbsp;I’m currently learning ...
 <!-- <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>  -->
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/Apache_Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
 </br>
 
-## 💻 &nbsp;Stats
+### 🔭 &nbsp;I’m currently working on ...
+오픈 소스 기여 눈 여겨 보는 중 </br>
+
+### 🤝 &nbsp;Contribution
+[Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)</br>
+<!-- 
+Spring Boot Docker Guide(command not working)
+start.spring.io(Bean Validation Description Change)
+-->
+### 📌 &nbsp;Latest Blog Post
+[2024/09/16 - [JPA] JPA에서 연결 테이블의 PK 설정하기](https://velog.io/@plate0113/JPA-JPA%EC%97%90%EC%84%9C-%EC%97%B0%EA%B2%B0-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98-PK-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)</br>
+[2024/08/30 - [Nginx] Nginx를 활용한 트래픽 제한 사용법](https://velog.io/@plate0113/Nginx-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%A0%9C%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B2%95)</br>
+[2024/08/23 - [프로젝트 후기] 공통 프로젝트 후기 1, 2](https://velog.io/@plate0113/%ED%9A%8C%EC%83%81-%EA%B3%B5%ED%86%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)</br>
+[2024/07/23 - [JPA] 연관관계와 getReferenceById()](https://velog.io/@plate0113/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-getReferenceById)</br>
+[2024/07/22 - [오픈소스] 어렵기만한 오픈소스 기여! 누구나 쉽게 도전 하는 방법!!](https://velog.io/@plate0113/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%A0%B5%EA%B8%B0%EB%A7%8C%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%A0%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
+</br>
+
+## 💻 &nbsp;Stats 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1)
+
+#### 🎓 Github Stats
 <p align="left">
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=tokyonight&rank_icon=percentile&\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
@@ -65,22 +85,26 @@
     <a>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
-    </br>
+</p>
+
+#### 🛠️ Algorithm Stats
+<p align="left">
     <a href="https://solved.ac/plate0113">
     	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=130 />
     </a>
     <a href="https://solved.ac/plate0113">
         <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=130 />
     </a> <!-- cold, dark, warm -->
-    </br>
+</p>
+
+#### ⏲️ WorkStats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark)](https://github.com/sihyunjojo/github-readme-stats)
+<p align="left">
     <a>
     	<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=sihyunjojo" style="margin-left: 10px; vertical-align:top" height=140 />
     </a>
 </p>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact)](https://github.com/sihyunjojo/github-readme-stats)
-	<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
--->
 
 <!--
 **sihyunjojo/sihyunjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -97,24 +121,6 @@ Here are some ideas to get you started:
 Spring Boot Docker Guide(command not working)
 - My Portpolio
 -->
-
-### 🔭 &nbsp;I’m currently working on ...
-다양한 기술 공부 중 </br>
-WorkSpace 관리 개발 중 :baby_chick:  </br>
-오픈 소스 기여 눈 여겨 보는 중 </br>
-
-### 🤝 &nbsp;Contribution
-[Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)</br>
-<!-- 
-Spring Boot Docker Guide(command not working)
-start.spring.io(Bean Validation Description Change)
--->
-### 📌 &nbsp;Latest Blog Post
-[2024/09/16 - [JPA] JPA에서 연결 테이블의 PK 설정하기](https://velog.io/@plate0113/JPA-JPA%EC%97%90%EC%84%9C-%EC%97%B0%EA%B2%B0-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98-PK-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)</br>
-[2024/08/30 - [Nginx] Nginx를 활용한 트래픽 제한 사용법](https://velog.io/@plate0113/Nginx-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%A0%9C%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B2%95)</br>
-[2024/08/23 - [프로젝트 후기] 공통 프로젝트 후기 1, 2](https://velog.io/@plate0113/%ED%9A%8C%EC%83%81-%EA%B3%B5%ED%86%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)</br>
-[2024/07/23 - [JPA] 연관관계와 getReferenceById()](https://velog.io/@plate0113/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-getReferenceById)</br>
-[2024/07/22 - [오픈소스] 어렵기만한 오픈소스 기여! 누구나 쉽게 도전 하는 방법!!](https://velog.io/@plate0113/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%A0%B5%EA%B8%B0%EB%A7%8C%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%A0%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
