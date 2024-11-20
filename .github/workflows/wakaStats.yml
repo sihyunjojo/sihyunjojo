@@ -33,4 +33,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True" # Monday
           SHOW_TIMEZONE: "False" # 시간대
           SYMBOL_VERSION: 3
-          DEBUG_LOGGING: "False" # 언어별 타임라인 
+          DEBUG_LOGGING: "False" # 언어별 타임라인 추가
