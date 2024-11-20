@@ -73,11 +73,9 @@
         <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=130 />
     </a> <!-- cold, dark, warm -->
     </br>
-    <!--
     <a>
     	<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=sihyunjojo" style="margin-left: 10px; vertical-align:top" height=140 />
     </a>
-    -->
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact)](https://github.com/sihyunjojo/github-readme-stats)
@@ -125,6 +123,7 @@ start.spring.io(Bean Validation Description Change)
   height="300"
 />
 </a>
+
 <!-- ### 🙂 &nbsp;Portfolio 
 [Notion Portfolio(fix...)](https://99sihyun.notion.site/Junior-Backend-Developer-b41971c29c8446eaab5e99c78b3795bc?pvs=4) -->
 
