@@ -97,7 +97,7 @@ start.spring.io(Bean Validation Description Change)
 </p>
 
 #### ⏲️ WorkStats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark)](https://github.com/sihyunjojo)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark)
 
 <!--
 **sihyunjojo/sihyunjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
