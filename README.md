@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</b></td>
-    <td><img src="https://i.pinimg.com/736x/12/3d/27/123d277636783ba450261641cd5d9b92.jpg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kafka</b></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjXADv-XcMBeVYbxROMcVPc0l9SGQr5KSPw&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kafka</b></td>
     <td><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Grafana</b></td>
   </tr>
 </table> 
