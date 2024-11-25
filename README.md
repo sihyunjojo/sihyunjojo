@@ -18,7 +18,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>ELK Stack</b></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Go</b></td>
+    <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Go</b></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgreSQL</b></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
      width="16px" alt="_icon" />&nbsp;&nbsp;<b>Hadoop</b></td>
