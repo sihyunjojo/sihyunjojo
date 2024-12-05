@@ -33,7 +33,7 @@
   <tr>
     <td rowspan="2" align="center"><b>ORM</b></td>
     <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA</b></td>
-    <td rowspan="2" align="center"><b>MQ</b></td>
+    <td rowspan="2" align="center"><b>Message Queue</b></td>
     <td><img src="https://www.svgrepo.com/show/439288/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</b>
     <td><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Nginx</b></td>
     
