@@ -13,7 +13,7 @@
     <td rowspan="2" align="center"><b>Language</b></td>
     <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</b></td>
     <td rowspan="3" align="center"><b>Database</b></td>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlt-eR5tE_V3E6Idxl8mia5JV9gO1de6f86A&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
     <td rowspan="2" align="center"><b>Tool</b></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>ELK Stack</b></td>
   </tr>
