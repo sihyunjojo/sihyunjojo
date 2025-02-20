@@ -69,11 +69,11 @@ Spring Boot Docker Guide(command not working)
 start.spring.io(Bean Validation Description Change)
 -->
 ### 📌 &nbsp;Latest Blog Post
+[2025/02/20 - [JPA] 예상 못한 트랜잭션 오류, JPA Cascade 설정이 문제일 수도?](https://velog.io/@plate0113/JPA-%EC%98%88%EC%83%81-%EB%AA%BB%ED%95%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%98%A4%EB%A5%98-JPA-Cascade-%EC%84%A4%EC%A0%95%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EC%88%98%EB%8F%84)</br>
 [2025/02/19 - [TEST] 성능 테스트시, 데이터 전처리는 어떤 방식이 좋을까??](https://velog.io/@plate0113/TEST-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EC%B2%98%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C)</br>
-[2024/12/16 - [DB] [DB] RDBMS에서 롤백은 어떻게 되는걸까?](https://velog.io/@plate0113/DB-RDBMS%EC%97%90%EC%84%9C-%EB%A1%A4%EB%B0%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94%EA%B1%B8%EA%B9%8C)</br>
+[2024/12/16 - [DB] RDBMS에서 롤백은 어떻게 되는걸까?](https://velog.io/@plate0113/DB-RDBMS%EC%97%90%EC%84%9C-%EB%A1%A4%EB%B0%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94%EA%B1%B8%EA%B9%8C)</br>
 [2024/12/11 - [DB] MongoDB를 활용한 로그 관리: 설계부터 확장까지](https://velog.io/@plate0113/MongoDB%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EA%B8%B0%EB%A1%9D-%EB%B0%8F-%EC%A1%B0%ED%9A%8C-Spring-DTO)</br>
 [2024/12/07 - [회고] 실시간 WorkFlow 관리서비스 회고](https://velog.io/@plate0113/ssafy-%EC%9E%90%EC%9C%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)</br>
-[2024/09/16 - [JPA] JPA에서 연결 테이블의 PK 설정하기](https://velog.io/@plate0113/JPA-JPA%EC%97%90%EC%84%9C-%EC%97%B0%EA%B2%B0-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98-PK-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)</br>
 </br>
 
 ## 💻 &nbsp;Stats 
