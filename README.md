@@ -90,7 +90,7 @@ start.spring.io(Bean Validation Description Change)
     </a>
 </p>
 
-#### 🛠️ Algorithm Stats
+<#### 🛠️ Algorithm Stats
 <p align="left">
     <a href="https://solved.ac/plate0113">
     	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=130 />
@@ -147,6 +147,7 @@ Spring Boot Docker Guide(command not working)
 - My Portpolio
 -->
 
+<!--
 ##### 🐧 gitanimals
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -155,6 +156,6 @@ Spring Boot Docker Guide(command not working)
   height="300"
 />
 </a>
-
+-->
 <!-- ### 🙂 &nbsp;Portfolio 
 [Notion Portfolio(fix...)](https://99sihyun.notion.site/Junior-Backend-Developer-b41971c29c8446eaab5e99c78b3795bc?pvs=4) -->
