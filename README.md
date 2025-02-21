@@ -90,7 +90,7 @@ start.spring.io(Bean Validation Description Change)
     </a>
 </p>
 
-<#### 🛠️ Algorithm Stats
+#### 🛠️ Algorithm Stats
 <p align="left">
     <a href="https://solved.ac/plate0113">
     	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=130 />
