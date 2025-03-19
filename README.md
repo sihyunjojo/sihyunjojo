@@ -69,6 +69,7 @@ Spring Boot Docker Guide(command not working)
 start.spring.io(Bean Validation Description Change)
 -->
 ### 📌 &nbsp;Latest Blog Post
+[2025/03/18 - [Spring] 파라미터에 도메인 객체를 넣는게 왜 꺼려질까??](https://velog.io/@plate0113/%EC%99%9C-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%97%90-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%84%A3%EB%8A%94%EA%B2%8C-%EA%BA%BC%EB%A0%A4%EC%A7%88%EA%B9%8C)</br>
 [2025/02/20 - [JPA] 예상 못한 트랜잭션 오류, JPA Cascade 설정이 문제일 수도?](https://velog.io/@plate0113/JPA-%EC%98%88%EC%83%81-%EB%AA%BB%ED%95%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%98%A4%EB%A5%98-JPA-Cascade-%EC%84%A4%EC%A0%95%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EC%88%98%EB%8F%84)</br>
 [2025/02/19 - [TEST] 성능 테스트시, 데이터 전처리는 어떤 방식이 좋을까??](https://velog.io/@plate0113/TEST-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EC%B2%98%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C)</br>
 [2024/12/16 - [DB] RDBMS에서 롤백은 어떻게 되는걸까?](https://velog.io/@plate0113/DB-RDBMS%EC%97%90%EC%84%9C-%EB%A1%A4%EB%B0%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94%EA%B1%B8%EA%B9%8C)</br>
