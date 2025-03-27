@@ -77,7 +77,7 @@ start.spring.io(Bean Validation Description Change)
 </br>
 
 ## 💻 &nbsp;Stats 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 [![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1)
 
 #### 🎓 Github Stats
