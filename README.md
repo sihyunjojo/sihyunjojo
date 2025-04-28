@@ -70,9 +70,9 @@ start.spring.io(Bean Validation Description Change)
 -->
 ### 📌 &nbsp;Latest Blog Post ([Read More 🔗](https://velog.io/@plate0113/posts))
 [2025/04/24 - [DB] RDBMS에서 롤백은 어떻게 되는걸까?](https://velog.io/@plate0113/DB-MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80-%EC%B4%9D%EC%A0%95%EB%A6%AC)</br>
+[2025/04/19 - [Dev] 객체를 넘길까? ID를 넘길까? (클린 아키택처와 DDD를 보며 알아보자)](https://velog.io/@plate0113/%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%84%98%EA%B8%B8%EA%B9%8C-ID%EB%A5%BC-%EB%84%98%EA%B8%B8%EA%B9%8C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%83%9D%EC%B2%98%EC%99%80-DDD%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)</br>
 [2025/04/16 - [Dev] QueryDSL로 DB에 바로 반영했는데, JPA 엔티티가 그대로라고요? (JPA 영속성 컨텍스트가 업데이트 안될 때 해결법)](https://velog.io/@plate0113/JPA-DB-%EC%A7%81%EC%A0%91-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%9D%B4%ED%9B%84-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%99%EA%B8%B0%ED%99%94-%EC%A0%84%EB%9E%B5-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95)</br>
 [2025/03/29 - [Test] Locust 분산 테스트를 Docker로 구성해보자](https://velog.io/@plate0113/test-Locust-%EB%B6%84%EC%82%B0-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-Docker%EB%A1%9C-%EA%B5%AC%EC%84%B1%ED%95%B4%EB%B3%B4%EC%9E%90)</br>
-[2025/03/18 - [Spring] 파라미터에 도메인 객체를 넣는게 왜 꺼려질까??](https://velog.io/@plate0113/%EC%99%9C-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%97%90-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%84%A3%EB%8A%94%EA%B2%8C-%EA%BA%BC%EB%A0%A4%EC%A7%88%EA%B9%8C)</br>
 [2025/02/20 - [JPA] 예상 못한 트랜잭션 오류, JPA Cascade 설정이 문제일 수도?](https://velog.io/@plate0113/JPA-%EC%98%88%EC%83%81-%EB%AA%BB%ED%95%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%98%A4%EB%A5%98-JPA-Cascade-%EC%84%A4%EC%A0%95%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EC%88%98%EB%8F%84)</br>
 
 </br>
