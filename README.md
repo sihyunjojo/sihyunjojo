@@ -180,7 +180,7 @@ Nginx Configuration        5 hrs 22 mins   ▒░░░░░░░░░░░�
 <!--END_SECTION:wakasimple-->
 
 ## 📈 &nbsp; My Portpolio
-[📂 Click to view my full portfolio](https://drive.google.com/file/d/1YybQYAOgOT3ljbwDQkH-go51Jf5AhUrN/view?usp=drive_link)
+[![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YybQYAOgOT3ljbwDQkH-go51Jf5AhUrN/view?usp=drive_link)
 
 <!--
 Here are some ideas to get you started:
