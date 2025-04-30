@@ -160,7 +160,7 @@ Mac                      20 hrs 34 mins      ███████████�
 ```
 
 
- Last Updated on 2025년 04월 30일 (UTC 기준) UTC
+ Last Updated on 2025년 04월 30일 UTC
 <!--END_SECTION:waka-->
   
 <!--
