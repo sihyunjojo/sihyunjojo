@@ -121,7 +121,6 @@ start.spring.io(Bean Validation Description Change)
 -->
 
 #### ⏲️ WorkStats
-![WakaTime](https://gist.githubusercontent.com/sihyunjojo/711e223e53f8145029b44b17ecd48650/raw/wakatime-box.svg)
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark) -->
 
 <!--START_SECTION:waka-->
