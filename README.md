@@ -68,7 +68,7 @@
 Spring Boot Docker Guide(command not working)
 start.spring.io(Bean Validation Description Change)
 -->
-### 📌 &nbsp;Latest Blog Post ([Read More 🔗](https://velog.io/@plate0113/posts))
+### 📌 &nbsp;Latest Blog Post [👉 Read More](https://velog.io/@plate0113/posts)
 [2025/04/24 - [DB] RDBMS에서 롤백은 어떻게 되는걸까?](https://velog.io/@plate0113/DB-MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80-%EC%B4%9D%EC%A0%95%EB%A6%AC)</br>
 [2025/04/19 - [Dev] 객체를 넘길까? ID를 넘길까? (클린 아키택처와 DDD를 보며 알아보자)](https://velog.io/@plate0113/%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%84%98%EA%B8%B8%EA%B9%8C-ID%EB%A5%BC-%EB%84%98%EA%B8%B8%EA%B9%8C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%83%9D%EC%B2%98%EC%99%80-DDD%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)</br>
 [2025/04/16 - [Dev] QueryDSL로 DB에 바로 반영했는데, JPA 엔티티가 그대로라고요? (JPA 영속성 컨텍스트가 업데이트 안될 때 해결법)](https://velog.io/@plate0113/JPA-DB-%EC%A7%81%EC%A0%91-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%9D%B4%ED%9B%84-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%99%EA%B8%B0%ED%99%94-%EC%A0%84%EB%9E%B5-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95)</br>
@@ -77,10 +77,26 @@ start.spring.io(Bean Validation Description Change)
 
 </br>
 
-## 💻 &nbsp;Stats 
+## 🎓 Github Stats & 🛠️ Algorithm Stats
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
-[![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1)
+<!--[![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1)-->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=tokyonight&rank_icon=percentile&locale=kr" height="130" />
+    </td>
+    <td>
+    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
+    </td>
+    <td>
+      <a href="https://solved.ac/plate0113">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" height="130" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!--
 #### 🎓 Github Stats
 <p align="left">
     <a>
@@ -96,13 +112,12 @@ start.spring.io(Bean Validation Description Change)
     <a href="https://solved.ac/plate0113">
     	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=130 />
     </a>
-    <!-- 
     <a href="https://solved.ac/plate0113">
         <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=130 />
     </a> 
-    -->
-    <!-- cold, dark, warm -->
-</p>
+    <!-- cold, dark, warm 
+</p> 
+-->
 
 #### ⏲️ WorkStats
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark) -->
