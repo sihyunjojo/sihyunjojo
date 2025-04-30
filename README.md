@@ -86,9 +86,9 @@ start.spring.io(Bean Validation Description Change)
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=tokyonight&rank_icon=percentile&locale=kr" height="130" />
     </td>
-    <td>
+<!--     <td>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
-    </td>
+    </td> -->
     <td>
       <a href="https://solved.ac/plate0113">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" height="130" />
