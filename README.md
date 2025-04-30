@@ -163,8 +163,8 @@ Mac                      20 hrs 34 mins      ███████████�
  Last Updated on 2025년 04월 30일 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
+<!--START_SECTION:wakasimple-->
+<!--END_SECTION:wakasimple-->
 
 ## 📈 &nbsp; My Portpolio
 
