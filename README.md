@@ -124,10 +124,6 @@ start.spring.io(Bean Validation Description Change)
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%201%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 77.5 kB Used in GitHub's Storage 
@@ -164,7 +160,7 @@ Mac                      20 hrs 34 mins      ███████████�
 ```
 
 
- Last Updated on 30/04/2025 09:57:09 UTC
+ Last Updated on 30/04/2025 10:02:46 UTC
 <!--END_SECTION:waka-->
   
 <!--
