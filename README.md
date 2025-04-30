@@ -173,7 +173,8 @@ Total Time: 352 hrs 35 mins
 Java                       228 hrs 35 mins ████████████████▒░░░░░░░░   64.82 %
 Markdown                   16 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 SQL                        13 hrs 48 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-textmate                   8 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Go                         7 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Groovy                     6 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:wakasimple-->
