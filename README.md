@@ -162,21 +162,20 @@ Mac                      20 hrs 34 mins      ███████████�
 
  Last Updated on 2025년 04월 30일 UTC
 <!--END_SECTION:waka-->
-  
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
+
+## 📈 &nbsp; My Portpolio
+
 <!--
-**sihyunjojo/sihyunjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🤝 Contribution
-Spring Boot Docker Guide(command not working)
-- My Portpolio
 -->
 
 <!--
