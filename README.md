@@ -128,7 +128,7 @@ start.spring.io(Bean Validation Description Change)
 
 > 📦 77.5 kB Used in GitHub's Storage 
  > 
-> 🏆 179 Contributions in the Year 2025
+> 🏆 180 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,27 +142,20 @@ start.spring.io(Bean Validation Description Change)
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     1 hr 28 mins        ████████████████████████░   97.42 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 23 mins        ███████████████████████░░   91.83 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-c4-cometrue-assignment   1 hr 30 mins        █████████████████████████   99.46 % 
-josihyeon                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025년 05월 06일 UTC
+ Last Updated on 2025년 05월 07일 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
