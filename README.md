@@ -128,6 +128,8 @@ start.spring.io(Bean Validation Description Change)
 
 > 📦 77.5 kB Used in GitHub's Storage 
  > 
+> 🏆 184 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -140,20 +142,21 @@ start.spring.io(Bean Validation Description Change)
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ████████████████░░░░░░░░░   62.60 % 
+Java                     0 secs              █████████░░░░░░░░░░░░░░░░   37.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+c4-cometrue-assignment   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025년 05월 10일 UTC
+ Last Updated on 2025년 05월 11일 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
