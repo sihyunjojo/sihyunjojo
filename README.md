@@ -1,5 +1,5 @@
 <div align="center">
-	<b>Just Do it</b>
+	<b>세상에 끝이 어딨어.. 인생은 뫼비우스의 띠야</b>
 </div>
 
 
