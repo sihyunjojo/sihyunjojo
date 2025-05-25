@@ -128,6 +128,8 @@ start.spring.io(Bean Validation Description Change)
 
 > 📦 77.5 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -162,7 +164,7 @@ Mac                      4 hrs 18 mins       ███████████�
 ```
 
 
- Last Updated on 2025년 05월 24일 18시 46분 03초 UTC
+ Last Updated on 2025년 05월 25일 18시 45분 48초 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
