@@ -179,7 +179,7 @@ Gradle                     5 hrs 59 mins   ▒░░░░░░░░░░░�
 <!--END_SECTION:wakasimple-->
 
 ## 📈 &nbsp; My Portpolio
-[![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xkUYdNsAUPra_e_baOyNttHfgJTg4o-p/view)
+[![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1rzknRh5-GJOqWW2tkyKmu_UYbmj10SEe/view)
 
 <!--
 Here are some ideas to get you started:
