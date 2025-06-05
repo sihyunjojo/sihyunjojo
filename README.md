@@ -1,5 +1,5 @@
 <div align="center">
-	<b>세상에 끝이 어딨어.. 개발은 뫼비우스의 띠야</b>
+	<b>세상에 끝이 어딨어, 개발은 뫼비우스의 띠야</b>
 </div>
 
 
@@ -60,14 +60,6 @@
 
 
 <!-- ### 🔭 &nbsp;I’m currently working on ... -->
-
-
-### 🤝 &nbsp;Contribution
-[Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)</br>
-<!-- 
-Spring Boot Docker Guide(command not working)
-start.spring.io(Bean Validation Description Change)
--->
 ### 📌 &nbsp;Latest Blog Post &nbsp;&nbsp; [👉 Read More](https://velog.io/@plate0113/posts)
 [2025/05/28 - [DB] 오라클아, 넌 뭐가 다르니? (고성능 및 고가용성 아키텍처)](https://velog.io/@plate0113/DB-%EC%98%A4%EB%9D%BC%ED%81%B4%EC%95%84-%EB%84%8C-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%B4%EB%8B%88-%EA%B3%A0%EC%84%B1%EB%8A%A5-%EB%B0%8F-%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)</br>
 [2025/05/16 - [Test] 분산테스트(Locust)의 사용자 수를 늘리면 무조건 좋을까?](https://velog.io/@plate0113/Test-%EB%B6%84%EC%82%B0%ED%85%8C%EC%8A%A4%ED%8A%B8Locust%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EB%A5%BC-%EB%8A%98%EB%A6%AC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C)</br>
@@ -75,6 +67,12 @@ start.spring.io(Bean Validation Description Change)
 [2025/04/19 - [Dev] 객체를 넘길까? ID를 넘길까? (클린 아키택처와 DDD를 보며 알아보자)](https://velog.io/@plate0113/%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%84%98%EA%B8%B8%EA%B9%8C-ID%EB%A5%BC-%EB%84%98%EA%B8%B8%EA%B9%8C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%83%9D%EC%B2%98%EC%99%80-DDD%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)</br>
 [2025/04/16 - [Dev] QueryDSL로 DB에 바로 반영했는데, JPA 엔티티가 그대로라고요?](https://velog.io/@plate0113/JPA-DB-%EC%A7%81%EC%A0%91-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%9D%B4%ED%9B%84-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%99%EA%B8%B0%ED%99%94-%EC%A0%84%EB%9E%B5-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95)</br>
 
+### 🤝 &nbsp;Contribution
+[Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)
+</br>
+
+### 📈 &nbsp; My Portpolio
+[![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1rzknRh5-GJOqWW2tkyKmu_UYbmj10SEe/view)
 </br>
 
 ## 📈 &nbsp; Stats
@@ -119,9 +117,6 @@ start.spring.io(Bean Validation Description Change)
     <!-- cold, dark, warm 
 </p> 
 -->
-
-#### ⏲️ WorkStats
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark) -->
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -178,8 +173,6 @@ Gradle                     5 hrs 59 mins   ▒░░░░░░░░░░░�
 
 <!--END_SECTION:wakasimple-->
 
-## 📈 &nbsp; My Portpolio
-[![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1rzknRh5-GJOqWW2tkyKmu_UYbmj10SEe/view)
 
 <!--
 Here are some ideas to get you started:
