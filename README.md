@@ -72,7 +72,7 @@
 </br>
 
 ### 📈 &nbsp; My Portpolio
-[![Portfolio Preview](https://drive.google.com/file/d/1h7AVURLXXNbUvPlhQojUhxrpOBdrssrA/view)]
+[![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1h7AVURLXXNbUvPlhQojUhxrpOBdrssrA/view)
 </br>
 
 ## 📈 &nbsp; Stats
