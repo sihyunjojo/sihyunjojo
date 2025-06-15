@@ -72,7 +72,7 @@
 </br>
 
 ### 📈 &nbsp; My Portpolio
-[![Portfolio Preview](https://drive.google.com/file/d/1h7AVURLXXNbUvPlhQojUhxrpOBdrssrA/view)
+[![Portfolio Preview](https://drive.google.com/file/d/1h7AVURLXXNbUvPlhQojUhxrpOBdrssrA/view)]
 </br>
 
 ## 📈 &nbsp; Stats
