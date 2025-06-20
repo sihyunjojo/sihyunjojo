@@ -61,7 +61,7 @@
 
 <!-- ### 🔭 &nbsp;I’m currently working on ... -->
 ### 📌 &nbsp;Latest Blog Post &nbsp;&nbsp; [👉 Read More](https://velog.io/@plate0113/posts)
-[2025/05/19 - [DB] Oracle SQL 실행 계획 완전 분석](https://velog.io/@plate0113/%EC%98%A4%EB%9D%BC%ED%81%B4-%EC%BF%BC%EB%A6%AC-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
+[2025/06/19 - [DB] Oracle SQL 실행 계획 완전 분석](https://velog.io/@plate0113/%EC%98%A4%EB%9D%BC%ED%81%B4-%EC%BF%BC%EB%A6%AC-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
 [2025/05/28 - [DB] 오라클아, 넌 뭐가 다르니? (고성능 및 고가용성 아키텍처)](https://velog.io/@plate0113/DB-%EC%98%A4%EB%9D%BC%ED%81%B4%EC%95%84-%EB%84%8C-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%B4%EB%8B%88-%EA%B3%A0%EC%84%B1%EB%8A%A5-%EB%B0%8F-%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)</br>
 [2025/05/16 - [Test] 분산테스트(Locust)의 사용자 수를 늘리면 무조건 좋을까?](https://velog.io/@plate0113/Test-%EB%B6%84%EC%82%B0%ED%85%8C%EC%8A%A4%ED%8A%B8Locust%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EB%A5%BC-%EB%8A%98%EB%A6%AC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C)</br>
 [2025/04/24 - [DB] RDBMS에서 롤백은 어떻게 되는걸까?](https://velog.io/@plate0113/DB-MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80-%EC%B4%9D%EC%A0%95%EB%A6%AC)</br>
