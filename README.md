@@ -126,7 +126,7 @@
 <!--START_SECTION:wakasimple-->
 
 ```java
-From: 20 July 2024 - To: 20 July 2025
+From: 21 July 2024 - To: 21 July 2025
 
 Total Time: 438 hrs 21 mins
 
