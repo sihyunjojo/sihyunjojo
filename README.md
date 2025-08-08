@@ -126,22 +126,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     7 mins              ████████████████████████░   95.45 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-java_algo                7 mins              ████████████████████████░   95.45 % 
-josihyeon                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025년 08월 07일 18시 57분 09초 UTC
+ Last Updated on 2025년 08월 08일 18시 52분 20초 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
