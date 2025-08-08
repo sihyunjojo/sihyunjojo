@@ -147,7 +147,7 @@ Mac                      7 mins              ███████████�
 <!--START_SECTION:wakasimple-->
 
 ```java
-From: 06 August 2024 - To: 06 August 2025
+From: 07 August 2024 - To: 07 August 2025
 
 Total Time: 441 hrs 44 mins
 
