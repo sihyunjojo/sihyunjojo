@@ -127,14 +127,15 @@
 <!--START_SECTION:wakasimple-->
 
 ```java
-From: 24 August 2024 - To: 24 August 2025
+From: 22 September 2024 - To: 22 September 2025
 
-Total Time: 441 hrs 44 mins
+Total Time: 465 hrs 25 mins
 
-Java                       285 hrs 46 mins ████████████████░░░░░░░░░   64.65 %
-SQL                        21 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Markdown                   17 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Gradle                     9 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Java                       315 hrs 29 mins █████████████████░░░░░░░░   67.75 %
+SQL                        27 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+HTML                       18 hrs 13 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown                   16 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Gradle                     8 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:wakasimple-->
