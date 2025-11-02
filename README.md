@@ -4,11 +4,41 @@
 
 
 ## 👋 &nbsp;Hi there
-기차 타면서도 개발하는 개발자입니다. :)<br/>
+사용자 경험을 생각하며 개발하는 개발자입니다. :)<br/>
 
 ## 🛠️&nbsp; Tech Stacks
 
 <table>
+  <tr>
+    <td rowspan="2" align="center"><b>Language</b></td>
+    <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</b></td>
+    <td rowspan="2" align="center"><b>Database</b></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlt-eR5tE_V3E6Idxl8mia5JV9gO1de6f86A&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
+    <td rowspan="4" align="center"><b>Tool</b></td>
+    <td><img src="https://www.thymeleaf.org/images/thymeleaf.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Thymeleaf</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.svgrepo.com/show/452045/js.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JavaScrpipt</b></td>
+    <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MongoDB</b></td>
+  <td><img src="https://www.svgrepo.com/show/452192/docker.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Docker</b></td>
+  </tr>
+  <tr>
+    <td rowspan="1" align="center"><b>Frameworks</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</b></td>
+    <td rowspan="2" align="center"><b>Message Queue</b></td>
+    <td><img src="https://www.svgrepo.com/show/439288/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</b>
+	<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>ELK Stack</b></td>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center"><b>ORM</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA</b></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjXADv-XcMBeVYbxROMcVPc0l9SGQr5KSPw&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kafka</b></td>
+    <td><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Grafana</b></td>
+  </tr>
+</table> 
+
+
+<!-- <table>
   <tr>
     <td rowspan="2" align="center"><b>Language</b></td>
     <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</b></td>
@@ -18,7 +48,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>ELK Stack</b></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/?size=96&id=13441&format=png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Python</b></td>
+    <td><img src="https://img.icons8.com/?size=96&id=13441&format=png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JavaScrpt</b></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgreSQL</b></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
      width="16px" alt="_icon" />&nbsp;&nbsp;<b>Hadoop</b></td>
@@ -36,15 +66,13 @@
     <td rowspan="2" align="center"><b>Message Queue</b></td>
     <td><img src="https://www.svgrepo.com/show/439288/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</b>
     <td><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Nginx</b></td>
-    
   </tr>
   <tr>
     <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</b></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjXADv-XcMBeVYbxROMcVPc0l9SGQr5KSPw&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kafka</b></td>
     <td><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Grafana</b></td>
   </tr>
-</table> 
-
+</table>  -->
 
 ### 🌱 &nbsp;I’m currently learning ...
 <p align="left">
@@ -76,8 +104,8 @@
 [![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1h7AVURLXXNbUvPlhQojUhxrpOBdrssrA/view)
 </br>
 
-## 📈 &nbsp; Stats
-#### 🎓 &nbsp;Github Stats, &nbsp; 🛠️ &nbsp;Algorithm Stats
+## 📈 &nbsp; Stats   [![Hits](https://hit-me-up-336ec.web.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hit-me-up-336ec.web.app)
+#### 🎓 &nbsp;Github Stats, &nbsp; 🛠️ &nbsp;Algorithm Stats 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 <!--[![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1)-->
 <table>
