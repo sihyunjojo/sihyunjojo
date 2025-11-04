@@ -155,13 +155,13 @@
 <!--START_SECTION:wakasimple-->
 
 ```java
-From: 27 October 2025 - To: 03 November 2025
+From: 28 October 2025 - To: 04 November 2025
 
-Total Time: 25 hrs 4 mins
+Total Time: 23 hrs 33 mins
 
-Java             19 hrs 20 mins  ███████████████████▒░░░░░   77.13 %
-HTML             3 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-JavaScript       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Java             17 hrs 16 mins  ██████████████████▒░░░░░░   73.33 %
+HTML             4 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+JavaScript       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:wakasimple-->
