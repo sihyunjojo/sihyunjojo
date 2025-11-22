@@ -156,14 +156,14 @@
 <!--START_SECTION:wakasimple-->
 
 ```java
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
-Total Time: 1 hr 40 mins
+Total Time: 1 hr 17 mins
 
-Java              1 hr 8 mins     █████████████████░░░░░░░░   67.50 %
-Kotlin            10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Java Properties   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-GitIgnore file    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Java              44 mins         ██████████████▒░░░░░░░░░░   57.65 %
+Kotlin            10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Java Properties   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+GitIgnore file    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:wakasimple-->
