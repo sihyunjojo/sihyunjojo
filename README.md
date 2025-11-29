@@ -172,7 +172,7 @@ Mac                      17 mins             ███████████�
 <!--START_SECTION:wakasimple-->
 
 ```java
-From: 20 November 2025 - To: 27 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
 Total Time: 17 mins
 
