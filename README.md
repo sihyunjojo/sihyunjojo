@@ -147,7 +147,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -155,21 +155,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   1 hr 11 mins        █████████████████████░░░░   83.49 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Java Properties          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025년 12월 16일 18시 54분 56초 UTC
+ Last Updated on 2025년 12월 17일 18시 55분 03초 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
