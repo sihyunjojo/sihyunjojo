@@ -147,7 +147,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -165,7 +165,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025년 12월 29일 18시 52분 16초 UTC
+ Last Updated on 2025년 12월 30일 18시 53분 54초 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
