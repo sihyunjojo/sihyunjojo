@@ -149,23 +149,8 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 2026년 01월 02일 18시 51분 45초 UTC
+ Last Updated on 2026년 01월 03일 18시 50분 29초 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
