@@ -120,6 +120,11 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" height="130" />
       </a>
     </td>
+	<td>
+		<a href="https://solved.ac/si4018">
+        	<img src="http://mazandi.herokuapp.com/api?handle=si4018&theme=cold" style="margin-left: 1px; vertical-align:top" height=130 />
+    	</a> 
+	</td>
   </tr>
 </table>
 
@@ -133,14 +138,16 @@
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
 </p>
+-->
 
+<!--
 #### 🛠️ Algorithm Stats
 <p align="left">
-    <a href="https://solved.ac/plate0113">
+    <a href="https://solved.ac/si4018">
     	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=130 />
     </a>
-    <a href="https://solved.ac/plate0113">
-        <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=130 />
+    <a href="https://solved.ac/si4018">
+        <img src="http://mazandi.herokuapp.com/api?handle=si4018&theme=cold" style="margin-left: 1px; vertical-align:top" height=130 />
     </a> 
     <!-- cold, dark, warm 
 </p> 
