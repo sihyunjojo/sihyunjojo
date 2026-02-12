@@ -154,7 +154,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -172,7 +172,7 @@ Mac                      6 mins              ███████████�
 ```
 
 
- Last Updated on 2026년 02월 11일 19시 34분 46초 UTC
+ Last Updated on 2026년 02월 12일 19시 34분 09초 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
