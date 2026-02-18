@@ -162,17 +162,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2026년 02월 17일 19시 29분 08초 UTC
+ Last Updated on 2026년 02월 18일 19시 29분 05초 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
