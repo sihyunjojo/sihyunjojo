@@ -1,10 +1,10 @@
 <div align="center">
-	<b>세상에 끝이 어딨어, 개발은 뫼비우스의 띠야</b>
+	<b></b>
 </div>
 
 
-## 👋 &nbsp;Hi there
-사용자 경험을 생각하며 개발하는 개발자입니다. :)<br/>
+## 👋 &nbsp; 사용자 경험을 생각하며 개발하는 개발자입니다
+<!-- <br/> -->
 
 ## 🛠️&nbsp; Tech Stacks
 
@@ -103,18 +103,16 @@
 [![Portfolio Preview](https://img.shields.io/badge/View_Portfolio-Click_Here-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1h7AVURLXXNbUvPlhQojUhxrpOBdrssrA/view)
 </br>
 
-## 📈 &nbsp; Stats   [![Hits](https://hit-me-up-336ec.web.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hit-me-up-336ec.web.app)
-#### 🎓 &nbsp;Github Stats, &nbsp; 🛠️ &nbsp;Algorithm Stats 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihyunjojo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 <!--[![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1)-->
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=tokyonight&rank_icon=percentile&locale=kr" height="130" />
     </td>
-<!--     <td>
+    <td>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
-    </td> -->
+    </td>
     <td>
       <a href="https://solved.ac/plate0113">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" height="130" />
@@ -126,7 +124,7 @@
     	</a> 
 	</td>
   </tr>
-</table>
+</table> -->
 
 <!--
 #### 🎓 Github Stats
@@ -153,37 +151,7 @@
 </p> 
 -->
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   29 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-PyCharm                  29 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2026년 03월 22일 19시 01분 56초 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:wakasimple-->
-
-```java
-From: 15 March 2026 - To: 22 March 2026
-
-Total Time: 29 mins
-
-Python   29 mins               █████████████████████████   100.00 %
-```
+<!--<!--START_SECTION:waka-->
 
 <!--END_SECTION:wakasimple-->
 
