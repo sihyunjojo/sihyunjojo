@@ -89,11 +89,11 @@
 
 <!-- ### 🔭 &nbsp;I’m currently working on ... -->
 ### 📌 &nbsp;Latest Blog Post &nbsp;&nbsp; [👉 Read More](https://velog.io/@plate0113/posts)
-[2025/11/07 - [Spring] Spring Security 인증 흐름, 필터부터 Provider까지 정리](https://velog.io/@plate0113/Spring-Spring-Security-%EC%9D%B8%EC%A6%9D-%ED%9D%90%EB%A6%84-%ED%95%84%ED%84%B0%EB%B6%80%ED%84%B0-Provider%EA%B9%8C%EC%A7%80-%ED%95%9C%EB%88%88%EC%97%90-%EC%A0%95%EB%A6%AC)</br>
-[2025/11/03 - [Dev] 스프링 @Transactional의 숨겨진 비밀: "언제 롤백 당하는지" 정확히 알고 있나요?](https://velog.io/@plate0113/Dev-%EC%8A%A4%ED%94%84%EB%A7%81-Transactional%EC%9D%98-%EC%88%A8%EA%B2%A8%EC%A7%84-%EB%B9%84%EB%B0%80-%EC%96%B8%EC%A0%9C-%EB%A1%A4%EB%B0%B1-%EB%8B%B9%ED%95%98%EB%8A%94%EC%A7%80-%EC%A0%95%ED%99%95%ED%9E%88-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94#/)</br>
-[2025/07/13 - [Dev] 복잡한 분산 시스템, 트랜잭션은 어떻게 처리해야 할까? (Saga & Outbox Pattern)](https://velog.io/@plate0113/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-Saga-Outbox-Pattern)</br>
-[2025/06/19 - [DB] Oracle SQL 실행 계획 완전 분석](https://velog.io/@plate0113/%EC%98%A4%EB%9D%BC%ED%81%B4-%EC%BF%BC%EB%A6%AC-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
-[2025/05/16 - [Test] 분산테스트(Locust)의 사용자 수를 늘리면 무조건 좋을까?](https://velog.io/@plate0113/Test-%EB%B6%84%EC%82%B0%ED%85%8C%EC%8A%A4%ED%8A%B8Locust%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EB%A5%BC-%EB%8A%98%EB%A6%AC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C)</br>
+[2026-03-14 - UI 로직을 서버에서? : 왜 API는 '클라이언트의 것'이어야 하는가](https://velog.io/@plate0113/UI-%EC%8B%A4%ED%97%98%EC%9D%84-%EB%98%90-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%99%9C-API%EB%8A%94-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%9D%98-%EA%B2%83%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)</br>
+[2025-11-03 - [Dev] 스프링 @Transactional의 숨겨진 비밀: "언제 롤백 당하는지" 정확히 알고 있나요?](https://velog.io/@plate0113/Dev-%EC%8A%A4%ED%94%84%EB%A7%81-Transactional%EC%9D%98-%EC%88%A8%EA%B2%A8%EC%A7%84-%EB%B9%84%EB%B0%80-%EC%96%B8%EC%A0%9C-%EB%A1%A4%EB%B0%B1-%EB%8B%B9%ED%95%98%EB%8A%94%EC%A7%80-%EC%A0%95%ED%99%95%ED%9E%88-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94#/)</br>
+[2025-07-13 - [Dev] 복잡한 분산 시스템, 트랜잭션은 어떻게 처리해야 할까? (Saga & Outbox Pattern)](https://velog.io/@plate0113/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-Saga-Outbox-Pattern)</br>
+[2025-06-19 - [DB] Oracle SQL 실행 계획 완전 분석](https://velog.io/@plate0113/%EC%98%A4%EB%9D%BC%ED%81%B4-%EC%BF%BC%EB%A6%AC-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
+[2025-05-16 - [Test] 분산테스트(Locust)의 사용자 수를 늘리면 무조건 좋을까?](https://velog.io/@plate0113/Test-%EB%B6%84%EC%82%B0%ED%85%8C%EC%8A%A4%ED%8A%B8Locust%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EB%A5%BC-%EB%8A%98%EB%A6%AC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C)</br>
 
 ### 🤝 &nbsp;Contribution
 [Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)
